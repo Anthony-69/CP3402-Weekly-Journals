@@ -3,7 +3,7 @@
 <p>For this weeks tasks i learned how to host websites using Github (Github Pages) and refreshed my memory and skills on basic html elements creating a static website for my start-up idea.</p>
 
 <h2>Resources and Links</h2>
-<p><a href="https://www.youtube.com/watch?v=8hrJ4oN1u_8"></p>
+<p><a href="https://www.youtube.com/watch?v=8hrJ4oN1u_8">How to Host a Website On Github</p>
 
 <h2>Estimated Hours</h2>
 For this pracical i spent the first 2 practical sessions (2hrs each) working on it as well as 4hours of my own time at home, totalling 8hrs. Most of that was familiarising myself with different style elements and the inner-workings of website.

@@ -9,7 +9,7 @@
 For this pracical i spent the first 2 practical sessions (2hrs each) working on it as well as 4hours of my own time at home, totalling 8hrs. Most of that was familiarising myself with different style elements and the inner-workings of websites.
 
 <h2>Content Insights</h2>
-<p>I learnet how to host static websites using Github Pages, as well as using Bootstrap templates. I personally found a lot of problems in trying to edit and change the Bootstrap theme because of how they link their CSS to the templates. It was very frustrating so i ended up deciding on just modifying specific elements CSS inside the page itself, which obviously is not how that's normally done, but i found myself forced into that route. In spite of the difficulties, granted the site isn't perfect, i created a very nice and functioning static website.</p>
+<p>I learnt how to host static websites using Github Pages, as well as using Bootstrap templates. I personally found a lot of problems in trying to edit and change the Bootstrap theme because of how they link their CSS to the templates. It was very frustrating so i ended up deciding on just modifying specific elements CSS inside the page itself, which obviously is not how that's normally done, but i found myself forced into that route. In spite of the difficulties, granted the site isn't perfect, i created a very nice and functioning static website.</p>
 
 <h2>Career/Employability/Learning Insights</h2>
 <p>In terms of "self-teaching"/studying i didn't discover anything new about myself or how i've found it's most efficient for me to learn. I do know however, that i still have a lot to learn and i need to revise the LinkedIn learning courses.</p>

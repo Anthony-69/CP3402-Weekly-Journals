@@ -14,3 +14,4 @@ For this pracical i spent the first 2 practical sessions (2hrs each) working on 
 <h2>Career/Employability/Learning Insights</h2>
 <p>In terms of "self-teaching"/studying i didn't discover anything new about myself or how i've found it's most efficient for me to learn. I do know however, that i still have a lot to learn and i need to revise the LinkedIn learning courses.</p>
 <p>Markdown was very useful for me personally as it was a great reference point for my website.</p>
+<p>Given the problems i found with using Bootstrap i do not plan on using it much if at all in my professional work and future career.</p>

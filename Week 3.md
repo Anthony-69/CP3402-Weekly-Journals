@@ -19,26 +19,31 @@ For this pracical i roughly 8hrs. 2 of which was spent in the practical performi
 <p>These notes are split up by student.</p>
 <p>
 Jon:</p>
- - Willing to bring the team back onto topic
- - Qite free and can shift his schedule aruond
- - Plays in a band so he should work well together in a team
- - Is bad for pracastination
- - Not very familiar with Wordpress but has a positive attitude of "can figure it out"
- - Is ready to learn
- - Prefers discord
+<ul>
+<li> - Willing to bring the team back onto topic</li>
+<li> - Qite free and can shift his schedule aruond</li>
+<li> - Plays in a band so he should work well together in a team</li>
+<li> - Is bad for pracastination</li>
+<li> - Not very familiar with Wordpress but has a positive attitude of "can figure it out"</li>
+<li> - Is ready to learn</li>
+<li> - Prefers discord</li>
+</ul>
 <p>Matt:</p>
- - Experienced in web-development
- - Free most evenings and Thursday
- - Prefers discord and email for communication
- - Has no trouble working with others
+<li> - Experienced in web-development</li>
+<li> - Free most evenings and Thursday</li>
+<li> - Prefers discord and email for communication</li>
+<li> - Has no trouble working with others</li>
+</ul>
 <p>Rod:</p>
- - Prefers discord and teams for communication
- - Like to work online with other, over face-to-face meetings
- - Straight to the point
- - Like to do stand-up meetings
+<li> - Prefers discord and teams for communication</li>
+<li> - Like to work online with other, over face-to-face meetings</li>
+<li> - Straight to the point</li>
+<li> - Like to do stand-up meetings</li>
+</ul>
 <p>Anthony (Myself):</p>
- * Positive attitude
- * Experienced working with the other students present
- * Good availability and can work around others schedules
- * Has decent experience using Wordpress
- * Tends to bring focus back onto the task when team members lose focus
+<li> - Positive attitude</li>
+<li> - Experienced working with the other students present</li>
+<li> - Good availability and can work around others schedules</li>
+<li> - Has decent experience using Wordpress</li>
+<li> - Tends to bring focus back onto the task when team members lose focus</li>
+</ul>

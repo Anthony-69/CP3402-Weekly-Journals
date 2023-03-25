@@ -19,31 +19,38 @@ For this pracical i roughly 8hrs. 2 of which was spent in the practical performi
 <p>These notes are split up by student.</p>
 <p>
 Jon:</p>
+
 <ul>
-<li> - Willing to bring the team back onto topic</li>
-<li> - Qite free and can shift his schedule aruond</li>
-<li> - Plays in a band so he should work well together in a team</li>
-<li> - Is bad for pracastination</li>
-<li> - Not very familiar with Wordpress but has a positive attitude of "can figure it out"</li>
-<li> - Is ready to learn</li>
-<li> - Prefers discord</li>
+<li>Willing to bring the team back onto topic</li>
+<li>Qite free and can shift his schedule aruond</li>
+<li>Plays in a band so he should work well together in a team</li>
+<li>Is bad for pracastination</li>
+<li>Not very familiar with Wordpress but has a positive attitude of "can figure it out"</li>
+<li>Is ready to learn</li>
+<li>Prefers discord</li>
 </ul>
 <p>Matt:</p>
-<li> - Experienced in web-development</li>
-<li> - Free most evenings and Thursday</li>
-<li> - Prefers discord and email for communication</li>
-<li> - Has no trouble working with others</li>
+
+<ul>
+<li>Experienced in web-development</li>
+<li>Free most evenings and Thursday</li>
+<li>Prefers discord and email for communication</li>
+<li>Has no trouble working with others</li>
 </ul>
 <p>Rod:</p>
-<li> - Prefers discord and teams for communication</li>
-<li> - Like to work online with other, over face-to-face meetings</li>
-<li> - Straight to the point</li>
-<li> - Like to do stand-up meetings</li>
+
+<ul>
+<li>Prefers discord and teams for communication</li>
+<li>Like to work online with other, over face-to-face meetings</li>
+<li>Straight to the point</li>
+<li>Like to do stand-up meetings</li>
 </ul>
 <p>Anthony (Myself):</p>
-<li> - Positive attitude</li>
-<li> - Experienced working with the other students present</li>
-<li> - Good availability and can work around others schedules</li>
-<li> - Has decent experience using Wordpress</li>
-<li> - Tends to bring focus back onto the task when team members lose focus</li>
+
+<ul>
+<li>Positive attitude</li>
+<li>Experienced working with the other students present</li>
+<li>Good availability and can work around others schedules</li>
+<li>Has decent experience using Wordpress</li>
+<li>Tends to bring focus back onto the task when team members lose focus</li>
 </ul>

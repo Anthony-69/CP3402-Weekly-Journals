@@ -18,7 +18,7 @@ For this pracical i roughly 8hrs. 2 of which was spent in the practical performi
 <h2>Notes from Group Formation Task:</h2>
 <p>These notes are split up by student.</p>
 <p>
-Jon:
+Jon:</p>
  - Willing to bring the team back onto topic
  - Qite free and can shift his schedule aruond
  - Plays in a band so he should work well together in a team
@@ -26,20 +26,19 @@ Jon:
  - Not very familiar with Wordpress but has a positive attitude of "can figure it out"
  - Is ready to learn
  - Prefers discord
-Matt:
+<p>Matt:</p>
  - Experienced in web-development
  - Free most evenings and Thursday
  - Prefers discord and email for communication
  - Has no trouble working with others
-Rod:
+<p>Rod:</p>
  - Prefers discord and teams for communication
  - Like to work online with other, over face-to-face meetings
  - Straight to the point
  - Like to do stand-up meetings
-Anthony (Myself):
+<p>Anthony (Myself):</p>
  - Positive attitude
  - Experienced working with the other students present
  - Good availability and can work around others schedules
  - Has decent experience using Wordpress
  - Tends to bring focus back onto the task when team members lose focus
-</p>

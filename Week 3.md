@@ -37,8 +37,8 @@ Jon:</p>
  - Straight to the point
  - Like to do stand-up meetings
 <p>Anthony (Myself):</p>
- - Positive attitude
- - Experienced working with the other students present
- - Good availability and can work around others schedules
- - Has decent experience using Wordpress
- - Tends to bring focus back onto the task when team members lose focus
+ * Positive attitude
+ * Experienced working with the other students present
+ * Good availability and can work around others schedules
+ * Has decent experience using Wordpress
+ * Tends to bring focus back onto the task when team members lose focus

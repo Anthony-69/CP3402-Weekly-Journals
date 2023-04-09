@@ -7,7 +7,7 @@
 <p><a href="https://wpengine.com.au/local/">Local WordPress hosting</p>
 
 <h2>Estimated Hours</h2>
-I put in around 9-11 hours of work, all split up in couple hour increments across the week. I spent the time slowly working at the assignment.
+<p>I put in around 9-11 hours of work, all split up in couple hour increments across the week. I spent the time slowly working at the assignment.</p>
 
 <h2>Content Insights</h2>
 <p>I learnt how to professionally host and develop sites locally, as opposed to just making a basic html file in some code editor. I learnt how to do so with WordPress. I also got very familiar with the Astra WordPress theme.</p>

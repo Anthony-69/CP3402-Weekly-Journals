@@ -20,7 +20,9 @@
 </p>
 
 <h2>Week 7 Group Project Work</h2>
-This week’s [stand-up can be viewed in this attached link](https://youtu.be/EYKuhkzewbw). All four team members were present.<br>
+This week’s <a href="https://youtu.be/EYKuhkzewbw">stand-up can be viewed in this attached link. All four team members were present.<br>
 Items worked on since the previous meeting, as discussed in the video, included updates to the deployment.md file, setup docker with a WordPress installation locally, and installed and configured PHP Storm in preparation to develop the theme.<br>
 Additional information can be viewed in my section of the [Trello board history](https://trello.com/b/KYotjzhS/workflow/member/anthonybokor/). It largely involved adding test data to my local environment, installing and using common plugins that each member would be using, and beginning to look at and sort the content that would be added to the site.<br>
 While i have made good progress this week, i feel like i need to be still more productive in the coming weeks if this project is to be completed on time.
+
+

@@ -9,7 +9,7 @@
 <p><a href="https://www.youtube.com/watch?v=fNE8cqWaZnY">PHP If Else conditional statements</p>
 
 <h2>Estimated Hours</h2>
-<p>Practical 7 took me less than 5hrs to complete. The majority of which was spent figuring out how the template site [The Advice Shop](https://github.com/lindsaymarkward/theadviceshop)</p>
+<p>Practical 7 took me less than 5hrs to complete. The majority of which was spent figuring out how the template site, The Advice Shop, was layed out and worked: https://github.com/lindsaymarkward/theadviceshop.</p>
 
 <h2>Content Insights</h2>
 <p>This practical was a very good inclusion at this point in the semester, and specifically, this point in the group project. This experience with php has allowed me to properly grasp using it, which is as before will be invaluable for the theme development. Main takeaways, or content insights, would be that you can simply use 'include' to add a footer/header to any page. The same goes with navigation. Another point is using echo and displaying text with it through 'echo "example text";'. Other than that, in a general sense I’ve gotten a lot more familiar with different expressions and uses of php, such as simple link insertion with '<a href="">'.
@@ -20,9 +20,9 @@
 </p>
 
 <h2>Week 7 Group Project Work</h2>
-This week’s <a href="https://youtu.be/EYKuhkzewbw">stand-up can be viewed in this attached link. All four team members were present.<br>
+This week’s stand-up can be viewed in this attached link: https://youtu.be/EYKuhkzewbw. All four team members were present.<br>
 Items worked on since the previous meeting, as discussed in the video, included updates to the deployment.md file, setup docker with a WordPress installation locally, and installed and configured PHP Storm in preparation to develop the theme.<br>
-Additional information can be viewed in my section of the [Trello board history](https://trello.com/b/KYotjzhS/workflow/member/anthonybokor/). It largely involved adding test data to my local environment, installing and using common plugins that each member would be using, and beginning to look at and sort the content that would be added to the site.<br>
+Additional information can be viewed in my section of the Trello board history: https://trello.com/b/KYotjzhS/workflow/member/anthonybokor/. It largely involved adding test data to my local environment, installing and using common plugins that each member would be using, and beginning to look at and sort the content that would be added to the site.<br>
 While i have made good progress this week, i feel like i need to be still more productive in the coming weeks if this project is to be completed on time.
 
 
